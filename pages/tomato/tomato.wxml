@@ -1,0 +1,6 @@
+<view class="container">
+  <view class="clock"><g-clock text="{{time}}"></g-clock></view>
+  <view class="again"><g-button type="change" size="mini" text="再来一组"></g-button></view>
+  <view class="stop"><g-button type="change" size="mini" text="暂停"></g-button></view>
+  <view class="abandon"><g-button size="mini" text="放弃"></g-button></view>
+</view>
